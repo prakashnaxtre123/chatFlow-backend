@@ -3,7 +3,6 @@ const dal = require('../dal');
 const { WrongInputError } = require('../utils/handler/error');
 const insertToCollection = async (collection, data) => {
     try {
-        console.log("data=======",data)
         const _result = await dal[collection].saveData(data);
         const result = JSON.parse(JSON.stringify(_result));
         delete result.__v;
