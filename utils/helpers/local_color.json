@@ -1,0 +1,875 @@
+[
+  {
+    "PARTY": "BJP",
+    "ORDER": 1,
+    "ALLIENCE": "NDA",
+    "CODES": "#ff9900",
+    "STATUS": 1,
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "AD",
+    "ORDER": 3,
+    "ALLIENCE": "NDA",
+    "CODES": "#fbfc5d",
+    "STATUS": 1,
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "RLD",
+    "ORDER": 3,
+    "ALLIENCE": "NDA",
+    "CODES": "#967934",
+    "STATUS": 1,
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "SS (S)",
+    "ORDER": 3,
+    "ALLIENCE": "NDA",
+    "CODES": "#b87507",
+    "STATUS": 1,
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "NCP (AP)",
+    "ORDER": 3,
+    "ALLIENCE": "NDA",
+    "CODES": "#ffdb87",
+    "STATUS": 1,
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "JD (U)",
+    "ORDER": 3,
+    "ALLIENCE": "NDA",
+    "CODES": "#97e1ff",
+    "STATUS": 1,
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "JDU",
+    "ORDER": 3,
+    "ALLIENCE": "NDA",
+    "CODES": "#97e1ff",
+    "STATUS": 1,
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "JDS",
+    "ORDER": 3,
+    "ALLIENCE": "NDA",
+    "CODES": "#4a86e8",
+    "STATUS": 1,
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "AGP",
+    "ORDER": 3,
+    "ALLIENCE": "NDA",
+    "CODES": "#edc7a5",
+    "STATUS": 1,
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "LJP",
+    "ORDER": 3,
+    "ALLIENCE": "NDA",
+    "CODES": "#b4a6cd",
+    "STATUS": 1,
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "BPF",
+    "ORDER": 3,
+    "ALLIENCE": "NDA",
+    "CODES": "#9d7c54",
+    "STATUS": 1,
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "INC",
+    "ORDER": 2,
+    "ALLIENCE": "INDIA",
+    "CODES": "#38761d",
+    "STATUS": 1,
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "DMK",
+    "ORDER": 3,
+    "ALLIENCE": "INDIA",
+    "CODES": "#ef5e47",
+    "STATUS": 1,
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "CPIM",
+    "ORDER": 4,
+    "ALLIENCE": "INDIA",
+    "CODES": "#7b615b",
+    "STATUS": 1,
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "AITC",
+    "ORDER": 6,
+    "ALLIENCE": "INDIA",
+    "CODES": "#a7c38b",
+    "STATUS": 1,
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "SP",
+    "ORDER": 4,
+    "ALLIENCE": "INDIA",
+    "CODES": "#9808ad",
+    "STATUS": 1,
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "SHS+AP",
+    "ORDER": 4,
+    "ALLIENCE": "NDA",
+    "CODES": "#cbb453",
+    "STATUS": 1,
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "SHS",
+    "ORDER": 4,
+    "ALLIENCE": "NDA",
+    "CODES": "#cbb453",
+    "STATUS": 1,
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "SS",
+    "ORDER": 4,
+    "ALLIENCE": "INDIA",
+    "CODES": "#719c8f",
+    "STATUS": 1,
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "NCP",
+    "ORDER": 4,
+    "ALLIENCE": "NDA",
+    "CODES": "#9ecfaa",
+    "STATUS": 1,
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "CPI",
+    "ORDER": 4,
+    "ALLIENCE": "INDIA",
+    "CODES": "#ba958d",
+    "STATUS": 1,
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "RJD",
+    "ORDER": 4,
+    "ALLIENCE": "INDIA",
+    "CODES": "#f9adc1",
+    "STATUS": 1,
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "AAP",
+    "ORDER": 4,
+    "ALLIENCE": "INDIA",
+    "CODES": "#134f5c",
+    "STATUS": 1,
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "JMM",
+    "ORDER": 4,
+    "ALLIENCE": "INDIA",
+    "CODES": "#b0e1e8",
+    "STATUS": 1,
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "IUML",
+    "ORDER": 4,
+    "ALLIENCE": "INDIA",
+    "CODES": "#d4f4c8",
+    "STATUS": 1,
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "BJD",
+    "ORDER": 6,
+    "ALLIENCE": "OTHERS",
+    "CODES": "#c9daf8",
+    "STATUS": 1,
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "TRS",
+    "ORDER": 6,
+    "ALLIENCE": "OTHERS",
+    "CODES": "#741c47",
+    "STATUS": 1,
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "BRS",
+    "ORDER": 6,
+    "ALLIENCE": "OTHERS",
+    "CODES": "#741c47",
+    "STATUS": 1,
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "YSRCP",
+    "ORDER": 6,
+    "ALLIENCE": "OTHERS",
+    "CODES": "#5d3dae",
+    "STATUS": 1,
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "TDP+",
+    "ORDER": 6,
+    "ALLIENCE": "NDA",
+    "CODES": "#efa1d7",
+    "STATUS": 1,
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "TDP",
+    "ORDER": 6,
+    "ALLIENCE": "NDA",
+    "CODES": "#efa1d7",
+    "STATUS": 1,
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "BSP",
+    "ORDER": 6,
+    "ALLIENCE": "OTHERS",
+    "CODES": "#857bb5",
+    "STATUS": 1,
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "NC",
+    "ORDER": 6,
+    "ALLIENCE": "OTHERS",
+    "CODES": "#ef9e9e",
+    "STATUS": 1,
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "PDP",
+    "ORDER": 6,
+    "ALLIENCE": "OTHERS",
+    "CODES": "#65587a",
+    "STATUS": 1,
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "SAD",
+    "ORDER": 6,
+    "ALLIENCE": "OTHERS",
+    "CODES": "#764576",
+    "STATUS": 1,
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "AIMIM",
+    "ORDER": 6,
+    "ALLIENCE": "OTHERS",
+    "CODES": "#b79fef",
+    "STATUS": 1,
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "IND",
+    "ORDER": 6,
+    "ALLIENCE": "OTHERS",
+    "CODES": "#d9d9d9",
+    "STATUS": 1,
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "AIADMK",
+    "ORDER": 6,
+    "ALLIENCE": "OTHERS",
+    "CODES": "#149ca2",
+    "STATUS": 1,
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "NTK",
+    "ORDER": 6,
+    "ALLIENCE": "OTHERS",
+    "CODES": "#6ec0eb",
+    "STATUS": 1,
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "OTHERS",
+    "ORDER": 100,
+    "ALLIENCE": "OTHERS",
+    "CODES": "#ef0fdd",
+    "STATUS": 1,
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "UNDECIDED",
+    "ORDER": 99,
+    "ALLIENCE": "UNKNOWN",
+    "CODES": "#a81d4e",
+    "STATUS": "",
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "UND/OTH",
+    "ORDER": 99,
+    "ALLIENCE": "UNKNOWN",
+    "CODES": "#a81d4e",
+    "STATUS": "",
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "UNKNOWN",
+    "ORDER": 99,
+    "ALLIENCE": "UNKNOWN",
+    "CODES": "#a10894",
+    "STATUS": "",
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "RLP",
+    "ORDER": 98,
+    "ALLIENCE": "INDIA",
+    "CODES": "#6f5087",
+    "STATUS": "",
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "BAP",
+    "ORDER": 98,
+    "ALLIENCE": "OTHERS",
+    "CODES": "#98b78b",
+    "STATUS": "",
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "BTP",
+    "ORDER": 98,
+    "ALLIENCE": "OTHERS",
+    "CODES": "#ead1dc",
+    "STATUS": "",
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "BSPM",
+    "ORDER": 98,
+    "ALLIENCE": "OTHERS",
+    "CODES": "",
+    "STATUS": "",
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "ATC",
+    "ORDER": 98,
+    "ALLIENCE": "OTHERS",
+    "CODES": "",
+    "STATUS": "",
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "AIUDF",
+    "ORDER": 98,
+    "ALLIENCE": "OTHERS",
+    "CODES": "#fb84f3",
+    "STATUS": "",
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "JSP",
+    "ORDER": 3,
+    "ALLIENCE": "NDA",
+    "CODES": "#a46f49",
+    "STATUS": "",
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "AJSUP",
+    "ORDER": 8,
+    "ALLIENCE": "OTHERS",
+    "CODES": "#e4eabe",
+    "STATUS": "",
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "INLD",
+    "ORDER": 98,
+    "ALLIENCE": "OTHERS",
+    "CODES": "#946E9A",
+    "STATUS": "",
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "SBSP",
+    "ORDER": 6,
+    "ALLIENCE": "OTHERS",
+    "CODES": "",
+    "STATUS": "",
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "AAP (P)",
+    "ORDER": 6,
+    "ALLIENCE": "OTHERS",
+    "CODES": "#134f5c",
+    "STATUS": "",
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "ADS",
+    "ORDER": 3,
+    "ALLIENCE": "NDA",
+    "CODES": "#fcb994",
+    "STATUS": "",
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "VCK",
+    "ORDER": 8,
+    "ALLIENCE": "INDIA",
+    "CODES": "#bca8ed",
+    "STATUS": "",
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "VSK",
+    "ORDER": 8,
+    "ALLIENCE": "OTHERS",
+    "CODES": "#bca8ed",
+    "STATUS": "",
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "SWP",
+    "ORDER": 8,
+    "ALLIENCE": "OTHERS",
+    "CODES": "#d2ed96",
+    "STATUS": "",
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "PMK",
+    "ORDER": 8,
+    "ALLIENCE": "NDA",
+    "CODES": "#ada3ac",
+    "STATUS": "",
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "MVA",
+    "ORDER": 3,
+    "ALLIENCE": "INDIA",
+    "CODES": "#45a24d",
+    "STATUS": "",
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "HAM",
+    "ORDER": 2,
+    "ALLIENCE": "NDA",
+    "CODES": "#ae9b4a",
+    "STATUS": "",
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "RSP",
+    "ORDER": 2,
+    "ALLIENCE": "INDIA",
+    "CODES": "#617a8e",
+    "STATUS": "",
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "CPIMK",
+    "ORDER": 6,
+    "ALLIENCE": "OTHERS",
+    "CODES": "#de9696",
+    "STATUS": "",
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "NPP",
+    "ORDER": 3,
+    "ALLIENCE": "OTHERS",
+    "CODES": "#ba9dbf",
+    "STATUS": "",
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "NPF",
+    "ORDER": 3,
+    "ALLIENCE": "NDA",
+    "CODES": "#676fb8",
+    "STATUS": "",
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "MNF",
+    "ORDER": 3,
+    "ALLIENCE": "OTHERS",
+    "CODES": "#afe897",
+    "STATUS": "",
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "NDPP",
+    "ORDER": 3,
+    "ALLIENCE": "NDA",
+    "CODES": "#7f3b72",
+    "STATUS": "",
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "SKM",
+    "ORDER": 3,
+    "ALLIENCE": "OTHERS",
+    "CODES": "#819fea",
+    "STATUS": "",
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "SDF",
+    "ORDER": 3,
+    "ALLIENCE": "OTHERS",
+    "CODES": "#986736",
+    "STATUS": "",
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "JKNC",
+    "ORDER": 3,
+    "ALLIENCE": "INDIA",
+    "CODES": "#d2e88b",
+    "STATUS": "",
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "JKPC",
+    "ORDER": 3,
+    "ALLIENCE": "OTHERS",
+    "CODES": "#5e7826",
+    "STATUS": "",
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "NCP (A)",
+    "ORDER": 2,
+    "ALLIENCE": "NDA",
+    "CODES": "#ffdb87",
+    "STATUS": "",
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "MDMK",
+    "ORDER": 2,
+    "ALLIENCE": "INDIA",
+    "CODES": "#c7deb7",
+    "STATUS": "",
+    "YEAR": ""
+  },
+  {
+    "PARTY": "AMMK",
+    "ORDER": 2,
+    "ALLIENCE": "NDA",
+    "CODES": "#c7d47d",
+    "STATUS": "",
+    "YEAR": ""
+  },
+  {
+    "PARTY": "OPS",
+    "ORDER": 2,
+    "ALLIENCE": "NDA",
+    "CODES": "#e3d1b8",
+    "STATUS": "",
+    "YEAR": ""
+  },
+  {
+    "PARTY": "VBA",
+    "ORDER": 4,
+    "ALLIENCE": "OTHERS",
+    "CODES": "#bfafc3",
+    "STATUS": "",
+    "YEAR": ""
+  },
+  {
+    "PARTY": "BDJS",
+    "ORDER": 3,
+    "ALLIENCE": "NDA",
+    "CODES": "#6d5a97",
+    "STATUS": "",
+    "YEAR": ""
+  },
+  {
+    "PARTY": "KC (J)",
+    "ORDER": 3,
+    "ALLIENCE": "INDIA",
+    "CODES": "#b3d9d7",
+    "STATUS": "",
+    "YEAR": ""
+  },
+  {
+    "PARTY": "KC (M)",
+    "ORDER": 3,
+    "ALLIENCE": "OTHERS",
+    "CODES": "",
+    "STATUS": "",
+    "YEAR": ""
+  },
+  {
+    "PARTY": "DMDK",
+    "ORDER": 3,
+    "ALLIENCE": "OTHERS",
+    "CODES": "#e7add5",
+    "STATUS": "",
+    "YEAR": ""
+  },
+  {
+    "PARTY": "TMC(M)",
+    "ORDER": 3,
+    "ALLIENCE": "OTHERS",
+    "CODES": "",
+    "STATUS": "",
+    "YEAR": ""
+  },
+  {
+    "PARTY": "AJP",
+    "ORDER": 3,
+    "ALLIENCE": "OTHERS",
+    "CODES": "",
+    "STATUS": "",
+    "YEAR": ""
+  },
+  {
+    "PARTY": "JJP",
+    "ORDER": 3,
+    "ALLIENCE": "OTHERS",
+    "CODES": "",
+    "STATUS": "",
+    "YEAR": ""
+  },
+  {
+    "PARTY": "AIFB",
+    "ORDER": 3,
+    "ALLIENCE": "OTHERS",
+    "CODES": "",
+    "STATUS": "",
+    "YEAR": "",
+    "": "#f06751"
+  },
+  {
+    "PARTY": "CPI (ML)",
+    "ORDER": 3,
+    "ALLIENCE": "INDIA",
+    "CODES": "",
+    "STATUS": "",
+    "YEAR": ""
+  },
+  {
+    "PARTY": "NCPSP",
+    "ORDER": 3,
+    "ALLIENCE": "INDIA",
+    "CODES": "#63a19b",
+    "STATUS": "",
+    "YEAR": ""
+  },
+  {
+    "PARTY": "SS(UBT)",
+    "ORDER": 3,
+    "ALLIENCE": "INDIA",
+    "CODES": "#3dab87",
+    "STATUS": "",
+    "YEAR": ""
+  },
+  {
+    "PARTY": "RSPS",
+    "ORDER": 3,
+    "ALLIENCE": "NDA",
+    "CODES": "#b7ad8d",
+    "STATUS": "",
+    "YEAR": ""
+  },
+  {
+    "PARTY": "VIP",
+    "ORDER": 3,
+    "ALLIENCE": "INDIA",
+    "CODES": "#7800ff",
+    "STATUS": "",
+    "YEAR": ""
+  },
+  {
+    "PARTY": "RLM",
+    "ORDER": 3,
+    "ALLIENCE": "NDA",
+    "CODES": "#cdbd98",
+    "STATUS": "",
+    "YEAR": ""
+  },
+  {
+    "PARTY": "TMP",
+    "ORDER": 3,
+    "ALLIENCE": "NDA",
+    "CODES": "#826033",
+    "STATUS": "",
+    "YEAR": ""
+  },
+  {
+    "PARTY": "UPPL",
+    "ORDER": 3,
+    "ALLIENCE": "OTHERS",
+    "CODES": "#9a548a",
+    "STATUS": "",
+    "YEAR": ""
+  },
+  {
+    "PARTY": "CPI(ML)",
+    "ORDER": 3,
+    "ALLIENCE": "INDIA",
+    "CODES": "",
+    "STATUS": "",
+    "YEAR": ""
+  },
+  {
+    "PARTY": "JKPDP",
+    "ORDER": 3,
+    "ALLIENCE": "OTHERS",
+    "CODES": "",
+    "STATUS": "",
+    "YEAR": ""
+  },
+  {
+    "PARTY": "AJSU",
+    "ORDER": 3,
+    "ALLIENCE": "NDA",
+    "CODES": "",
+    "STATUS": "",
+    "YEAR": ""
+  },
+  {
+    "PARTY": "UDP",
+    "ORDER": 3,
+    "ALLIENCE": "OTHERS",
+    "CODES": "",
+    "STATUS": "",
+    "YEAR": ""
+  },
+  {
+    "PARTY": "AIMRI",
+    "ORDER": 3,
+    "ALLIENCE": "OTHERS",
+    "CODES": "",
+    "STATUS": "",
+    "YEAR": ""
+  },
+  {
+    "PARTY": "KEC",
+    "ORDER": 3,
+    "ALLIENCE": "INDIA",
+    "CODES": "#826f9a",
+    "STATUS": "",
+    "YEAR": ""
+  },
+  {
+    "PARTY": "SS(SHS)",
+    "ORDER": 4,
+    "ALLIENCE": "NDA",
+    "CODES": "#ecba91",
+    "STATUS": 1,
+    "YEAR": 2024
+  },
+  {
+    "PARTY": "ASDC",
+    "ORDER": 3,
+    "ALLIENCE": "OTHERS",
+    "CODES": "",
+    "STATUS": "",
+    "YEAR": ""
+  },
+  {
+    "PARTY": "NCP(SP)",
+    "ORDER": 2,
+    "ALLIENCE": "INDIA",
+    "CODES": "",
+    "STATUS": "",
+    "YEAR": ""
+  },
+  {
+    "PARTY": "SUCI(S)",
+    "ORDER": 3,
+    "ALLIENCE": "OTHERS",
+    "CODES": "",
+    "STATUS": "",
+    "YEAR": ""
+  },
+  {
+    "PARTY": "TMC",
+    "ORDER": 3,
+    "ALLIENCE": "OTHERS",
+    "CODES": "",
+    "STATUS": "",
+    "YEAR": ""
+  },
+  {
+    "PARTY": "GSP",
+    "ORDER": 3,
+    "ALLIENCE": "OTHERS",
+    "CODES": "",
+    "STATUS": "",
+    "YEAR": ""
+  },
+  {
+    "PARTY": "IFS",
+    "ORDER": 3,
+    "ALLIENCE": "OTHERS",
+    "CODES": "",
+    "STATUS": "",
+    "YEAR": ""
+  },
+  {
+    "PARTY": "LDF",
+    "ORDER": 3,
+    "ALLIENCE": "OTHERS",
+    "CODES": "",
+    "STATUS": "",
+    "YEAR": ""
+  },
+  {
+    "PARTY": "NP",
+    "ORDER": 1,
+    "ALLIENCE": "NDA",
+    "CODES": "",
+    "STATUS": "",
+    "YEAR": ""
+  },
+  {
+    "PARTY": "SAD(A)",
+    "ORDER": 3,
+    "ALLIENCE": "OTHERS",
+    "CODES": "#9f6c9f",
+    "STATUS": "",
+    "YEAR": ""
+  },
+  {
+    "PARTY": "BVA",
+    "ORDER": 3,
+    "ALLIENCE": "OTHERS",
+    "CODES": "",
+    "STATUS": "",
+    "YEAR": ""
+  }
+]

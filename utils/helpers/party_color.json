@@ -1,0 +1,890 @@
+[
+  {
+    "PARTYNAME": "Aam Aadmi Party",
+    "ABBREVIATION": "AAP",
+    "PARTY_S_NAME": "aap",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "Akhil Bharatiya Gorkha League",
+    "ABBREVIATION": "ABGL",
+    "PARTY_S_NAME": "abgl",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "All India Anna Dravida Munnetra Kazhagam",
+    "ABBREVIATION": "AIADMK",
+    "PARTY_S_NAME": "aiadmk",
+    "COLORCODE": "#f28e2b"
+  },
+  {
+    "PARTYNAME": "All India Forward Bloc",
+    "ABBREVIATION": "AIFB",
+    "PARTY_S_NAME": "aifb",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "All India Hindustan Congress Party",
+    "ABBREVIATION": "AIHCP",
+    "PARTY_S_NAME": "aihcp",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "All India Mahila Empowerment Party",
+    "ABBREVIATION": "MEP",
+    "PARTY_S_NAME": "mep",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "All India Majlis-e-Ittehadul Muslimeen",
+    "ABBREVIATION": "AIMIM",
+    "PARTY_S_NAME": "aimim",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "All India N.R.Congress",
+    "ABBREVIATION": "AINRC",
+    "PARTY_S_NAME": "ainrc",
+    "COLORCODE": "#f28e2b"
+  },
+  {
+    "PARTYNAME": "All India Trinamool Congress",
+    "ABBREVIATION": "AITC",
+    "PARTY_S_NAME": "aitc",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "All India United Democratic Front",
+    "ABBREVIATION": "AIUDF",
+    "PARTY_S_NAME": "aiudf",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "All Indian Public Freedom Party",
+    "ABBREVIATION": "AIPFP",
+    "PARTY_S_NAME": "aipfp",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "AJSU Party",
+    "ABBREVIATION": "AJSU",
+    "PARTY_S_NAME": "ajsu",
+    "COLORCODE": "#f28e2b"
+  },
+  {
+    "PARTYNAME": "Amra Bangali",
+    "ABBREVIATION": "AMB",
+    "PARTY_S_NAME": "amb",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "Apna Dal",
+    "ABBREVIATION": "AD",
+    "PARTY_S_NAME": "ad",
+    "COLORCODE": "#f28e2b"
+  },
+  {
+    "PARTYNAME": "APNA DAL (SONEYLAL)",
+    "ABBREVIATION": "AD(s)",
+    "PARTY_S_NAME": "ads",
+    "COLORCODE": "#f28e2b"
+  },
+  {
+    "PARTYNAME": "Asom Gana Parishad",
+    "ABBREVIATION": "AGP",
+    "PARTY_S_NAME": "agp",
+    "COLORCODE": "#f28e2b"
+  },
+  {
+    "PARTYNAME": "Bahujan Azad Party",
+    "ABBREVIATION": "BAP",
+    "PARTY_S_NAME": "bap",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "Bahujan Republican Socialist Party",
+    "ABBREVIATION": "BRSP",
+    "PARTY_S_NAME": "brsp",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "Bahujan Samaj Party",
+    "ABBREVIATION": "BSP",
+    "PARTY_S_NAME": "bsp",
+    "COLORCODE": "#0000FF"
+  },
+  {
+    "PARTYNAME": "BSP+",
+    "ABBREVIATION": "BSP+",
+    "PARTY_S_NAME": "bsp+",
+    "COLORCODE": "#0000FF"
+  },
+  {
+    "PARTYNAME": "Bahujan Vikas Aghadi",
+    "ABBREVIATION": "BVA",
+    "PARTY_S_NAME": "bva",
+    "COLORCODE": "#00BFFF"
+  },
+  {
+    "PARTYNAME": "Bharatiya Janata Party",
+    "ABBREVIATION": "BJP",
+    "PARTY_S_NAME": "bjp",
+    "COLORCODE": "#f28e2b"
+  },
+  {
+    "PARTYNAME": "Bharatiya Minorities Suraksha Mahasangh",
+    "ABBREVIATION": "BMSM",
+    "PARTY_S_NAME": "bmsm",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "Bharipa Bahujan Mahasangh",
+    "ABBREVIATION": "BBM",
+    "PARTY_S_NAME": "bbm",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "Bhartiya Indian secular party",
+    "ABBREVIATION": "BISP",
+    "PARTY_S_NAME": "bisp",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "Bharath Dharma Jana Sena",
+    "ABBREVIATION": "BDJS",
+    "PARTY_S_NAME": "bdjs",
+    "COLORCODE": "#f28e2b"
+  },
+  {
+    "PARTYNAME": "Biju Janata Dal",
+    "ABBREVIATION": "BJD",
+    "PARTY_S_NAME": "bjd",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "Bodoland People's Front",
+    "ABBREVIATION": "BPF",
+    "PARTY_S_NAME": "bpf",
+    "COLORCODE": "#f28e2b"
+  },
+  {
+    "PARTYNAME": "Communist Party of India",
+    "ABBREVIATION": "CPI",
+    "PARTY_S_NAME": "cpi",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "Communist Party of India (Marxist)",
+    "ABBREVIATION": "CPIM",
+    "PARTY_S_NAME": "cpim",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "congress+",
+    "ABBREVIATION": "congress+",
+    "PARTY_S_NAME": "congress+",
+    "COLORCODE": "#00BFFF"
+  },
+  {
+    "PARTYNAME": "Democratic Labor Party ",
+    "ABBREVIATION": "DLP",
+    "PARTY_S_NAME": "dlp",
+    "COLORCODE": "#f28e2b"
+  },
+  {
+    "PARTYNAME": "Desiya Murpokku Dravida Kazhagam",
+    "ABBREVIATION": "DMDK",
+    "PARTY_S_NAME": "dmdk",
+    "COLORCODE": "#f28e2b"
+  },
+  {
+    "PARTYNAME": "Dravida Munnetra Kazhagam",
+    "ABBREVIATION": "DMK",
+    "PARTY_S_NAME": "dmk",
+    "COLORCODE": "#00BFFF"
+  },
+  {
+    "PARTYNAME": "empty-color",
+    "ABBREVIATION": "IND",
+    "PARTY_S_NAME": "empty-color",
+    "COLORCODE": "#c9c9c9"
+  },
+  {
+    "PARTYNAME": "Goa Forward Party",
+    "ABBREVIATION": "GFP",
+    "PARTY_S_NAME": "gfp",
+    "COLORCODE": "#f28e2b"
+  },
+  {
+    "PARTYNAME": "Gorkha Janmukti Morcha",
+    "ABBREVIATION": "GJM",
+    "PARTY_S_NAME": "gjm",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "Gorkha National Liberation Front",
+    "ABBREVIATION": "GNLF",
+    "PARTY_S_NAME": "gnlf",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "Hamro Sikkim Party",
+    "ABBREVIATION": "HSP",
+    "PARTY_S_NAME": "hsp",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "Haryana Janhit Congress (BL)",
+    "ABBREVIATION": "HJC(BL)",
+    "PARTY_S_NAME": "hjc(bl)",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "Hill State People's Democratic Party",
+    "ABBREVIATION": "HSPDP",
+    "PARTY_S_NAME": "hspdp",
+    "COLORCODE": "#f28e2b"
+  },
+  {
+    "PARTYNAME": "Hindu Sena",
+    "ABBREVIATION": "HS",
+    "PARTY_S_NAME": "hs",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "Hindustani Awam Morcha",
+    "ABBREVIATION": "HAM",
+    "PARTY_S_NAME": "ham",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "Independent",
+    "ABBREVIATION": "IND",
+    "PARTY_S_NAME": "ind",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "Indhiya Jananayaga Katchi",
+    "ABBREVIATION": "IJK",
+    "PARTY_S_NAME": "ijk",
+    "COLORCODE": "#00BFFF"
+  },
+  {
+    "PARTYNAME": "Indian Gandhiyan Party",
+    "ABBREVIATION": "IGP",
+    "PARTY_S_NAME": "igp",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "Indian National Congress",
+    "ABBREVIATION": "INC",
+    "PARTY_S_NAME": "inc",
+    "COLORCODE": "#00BFFF"
+  },
+  {
+    "PARTYNAME": "Indian National League",
+    "ABBREVIATION": "INL",
+    "PARTY_S_NAME": "inl",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "Indian National Lok Dal",
+    "ABBREVIATION": "INLD",
+    "PARTY_S_NAME": "inld",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "Indian Union Muslim League",
+    "ABBREVIATION": "IUML",
+    "PARTY_S_NAME": "iuml",
+    "COLORCODE": "#00BFFF"
+  },
+  {
+    "PARTYNAME": "Indigenous People's Front of Tripura",
+    "ABBREVIATION": "IPFT",
+    "PARTY_S_NAME": "ipft",
+    "COLORCODE": "#f28e2b"
+  },
+  {
+    "PARTYNAME": "Jai Samaikyandhra Party",
+    "ABBREVIATION": "JSP",
+    "PARTY_S_NAME": "jsp",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "Jammu & Kashmir National Conference",
+    "ABBREVIATION": "JKNC",
+    "PARTY_S_NAME": "jknc",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "Jammu & Kashmir National Panthers Party",
+    "ABBREVIATION": "JKNPP",
+    "PARTY_S_NAME": "jknpp",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "Jan Adhikar Party Loktantrik",
+    "ABBREVIATION": "JAP",
+    "PARTY_S_NAME": "jap",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "Jan Shakti Party of India",
+    "ABBREVIATION": "JSPI",
+    "PARTY_S_NAME": "jspi",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "Jana Sena Party",
+    "ABBREVIATION": "JSP",
+    "PARTY_S_NAME": "jsp",
+    "COLORCODE": "#0000FF"
+  },
+  {
+    "PARTYNAME": "Janata Dal (Secular)",
+    "ABBREVIATION": "JD(S)",
+    "PARTY_S_NAME": "jds",
+    "COLORCODE": "#00BFFF"
+  },
+  {
+    "PARTYNAME": "Janata Dal (United)",
+    "ABBREVIATION": "JD(U)",
+    "PARTY_S_NAME": "jdu",
+    "COLORCODE": "#f28e2b"
+  },
+  {
+    "PARTYNAME": "Jannayak Janata Party",
+    "ABBREVIATION": "JJP",
+    "PARTY_S_NAME": "jjp",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "Jansatta Dal Loktantrik",
+    "ABBREVIATION": "JDL",
+    "PARTY_S_NAME": "jdl",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "Janta Congress Chhattisgarh",
+    "ABBREVIATION": "JCC",
+    "PARTY_S_NAME": "jcc",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "Jharkhand Mukti Morcha",
+    "ABBREVIATION": "JMM",
+    "PARTY_S_NAME": "jmm",
+    "COLORCODE": "#00BFFF"
+  },
+  {
+    "PARTYNAME": "Jharkhand Vikas Morcha (Prajatantrik)",
+    "ABBREVIATION": "JVM(P)",
+    "PARTY_S_NAME": "jvm(p)",
+    "COLORCODE": "#00BFFF"
+  },
+  {
+    "PARTYNAME": "Kamtapur People's Party",
+    "ABBREVIATION": "KPP",
+    "PARTY_S_NAME": "kpp",
+    "COLORCODE": "#f28e2b"
+  },
+  {
+    "PARTYNAME": "Kerala Congress (B)",
+    "ABBREVIATION": "KC(B)",
+    "PARTY_S_NAME": "kc(b)",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "Kerala Congress (Jacob)",
+    "ABBREVIATION": "KC(J)",
+    "PARTY_S_NAME": "kc(j)",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "Kerala Congress (M)",
+    "ABBREVIATION": "KC(M)",
+    "PARTY_S_NAME": "kcm",
+    "COLORCODE": "#00BFFF"
+  },
+  {
+    "PARTYNAME": "Kerala Congress (Nationalist)",
+    "ABBREVIATION": "KC(N)",
+    "PARTY_S_NAME": "kcn",
+    "COLORCODE": "#f28e2b"
+  },
+  {
+    "PARTYNAME": "Kerala Congress (Thomas)",
+    "ABBREVIATION": "KC(T)",
+    "PARTY_S_NAME": "kct",
+    "COLORCODE": "#f28e2b"
+  },
+  {
+    "PARTYNAME": "Kerala Kamaraj Congress",
+    "ABBREVIATION": "KKC",
+    "PARTY_S_NAME": "kkc",
+    "COLORCODE": "#f28e2b"
+  },
+  {
+    "PARTYNAME": "Kongunadu Makkal Desia Katchi",
+    "ABBREVIATION": "KMDK",
+    "PARTY_S_NAME": "kmdk",
+    "COLORCODE": "#00BFFF"
+  },
+  {
+    "PARTYNAME": "Kongunadu Makkal Katchi",
+    "ABBREVIATION": "KMK",
+    "PARTY_S_NAME": "kmk",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "Loktantra Suraksha Party",
+    "ABBREVIATION": "LSP",
+    "PARTY_S_NAME": "lsp",
+    "COLORCODE": "#0000FF"
+  },
+  {
+    "PARTYNAME": "Lok Jan Shakti Party",
+    "ABBREVIATION": "LJP",
+    "PARTY_S_NAME": "ljp",
+    "COLORCODE": "#f28e2b"
+  },
+  {
+    "PARTYNAME": "Lok Satta Party",
+    "ABBREVIATION": "LSP",
+    "PARTY_S_NAME": "lsp",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "Mahan Dal",
+    "ABBREVIATION": "MD",
+    "PARTY_S_NAME": "md",
+    "COLORCODE": "#00BFFF"
+  },
+  {
+    "PARTYNAME": "Maharashtra Navnirman Sena",
+    "ABBREVIATION": "MNS",
+    "PARTY_S_NAME": "mns",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "Maharashtrawadi Gomantak Party",
+    "ABBREVIATION": "MGP",
+    "PARTY_S_NAME": "mgp",
+    "COLORCODE": "#f28e2b"
+  },
+  {
+    "PARTYNAME": "Makkal Needhi Maiam",
+    "ABBREVIATION": "MNM",
+    "PARTY_S_NAME": "mnm",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "Manipur Peoples Party",
+    "ABBREVIATION": "MPP",
+    "PARTY_S_NAME": "mpp",
+    "COLORCODE": "#f28e2b"
+  },
+  {
+    "PARTYNAME": "Manithaneya Jananaga Katchi",
+    "ABBREVIATION": "MJK",
+    "PARTY_S_NAME": "mjk",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "Manithaneya Jananayaga Katchi",
+    "ABBREVIATION": "MJK",
+    "PARTY_S_NAME": "mjk",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "Manithaneya Makkal Katchi",
+    "ABBREVIATION": "MMK",
+    "PARTY_S_NAME": "mmk",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "Marumalarchi Dravida Munnetra Kazhagam",
+    "ABBREVIATION": "MDMK",
+    "PARTY_S_NAME": "mdmk",
+    "COLORCODE": "#00BFFF"
+  },
+  {
+    "PARTYNAME": "Mizo National Front",
+    "ABBREVIATION": "MNF",
+    "PARTY_S_NAME": "mnf",
+    "COLORCODE": "#f28e2b"
+  },
+  {
+    "PARTYNAME": "Mizoram People's Conference",
+    "ABBREVIATION": "MPC",
+    "PARTY_S_NAME": "mpc",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "Naam Tamilar Katchi",
+    "ABBREVIATION": "NTK",
+    "PARTY_S_NAME": "ntk",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "Naga People's Front",
+    "ABBREVIATION": "NPF",
+    "PARTY_S_NAME": "npf",
+    "COLORCODE": "#f28e2b"
+  },
+  {
+    "PARTYNAME": "National Democratic Alliance",
+    "ABBREVIATION": "NDA",
+    "PARTY_S_NAME": "nda",
+    "COLORCODE": "#f28e2b"
+  },
+  {
+    "PARTYNAME": "NDA+",
+    "ABBREVIATION": "NDA",
+    "PARTY_S_NAME": "nda",
+    "COLORCODE": "#f28e2b"
+  },
+  {
+    "PARTYNAME": "National People's Party",
+    "ABBREVIATION": "NPP",
+    "PARTY_S_NAME": "npp",
+    "COLORCODE": "#f28e2b"
+  },
+  {
+    "PARTYNAME": "Nationalist Congress Party",
+    "ABBREVIATION": "NCP",
+    "PARTY_S_NAME": "ncp",
+    "COLORCODE": "#00BFFF"
+  },
+  {
+    "PARTYNAME": "Nationalist Democratic Progressive Party",
+    "ABBREVIATION": "NDPP",
+    "PARTY_S_NAME": "ndpp",
+    "COLORCODE": "#f28e2b"
+  },
+  {
+    "PARTYNAME": "Odisha Janmorcha",
+    "ABBREVIATION": "OJM",
+    "PARTY_S_NAME": "ojm",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "Others",
+    "ABBREVIATION": "Others",
+    "PARTY_S_NAME": "others",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "Others",
+    "ABBREVIATION": "others",
+    "PARTY_S_NAME": "o",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "Param Digvijay Dal",
+    "ABBREVIATION": "PDD",
+    "PARTY_S_NAME": "pdd",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "Pattali Makkal Katchi",
+    "ABBREVIATION": "PMK",
+    "PARTY_S_NAME": "pmk",
+    "COLORCODE": "#f28e2b"
+  },
+  {
+    "PARTYNAME": "Peace Party of India",
+    "ABBREVIATION": "PPI",
+    "PARTY_S_NAME": "ppi",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "People's Democratic Alliance",
+    "ABBREVIATION": "PDA",
+    "PARTY_S_NAME": "pda",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "People's Democratic Front",
+    "ABBREVIATION": "PDF",
+    "PARTY_S_NAME": "pdf",
+    "COLORCODE": "#f28e2b"
+  },
+  {
+    "PARTYNAME": "People's Democratic Party",
+    "ABBREVIATION": "PDP",
+    "PARTY_S_NAME": "pdp",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "People's Party of Arunachal",
+    "ABBREVIATION": "PPA",
+    "PARTY_S_NAME": "ppa",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "Peoples Party United",
+    "ABBREVIATION": "PPU",
+    "PARTY_S_NAME": "ppu",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "Haryana Lokhit Party",
+    "ABBREVIATION": "HLP",
+    "PARTY_S_NAME": "hlp",
+    "COLORCODE": "#4F7942"
+  },
+  {
+    "PARTYNAME": "Praja Socialist Party",
+    "ABBREVIATION": "PSP",
+    "PARTY_S_NAME": "psp",
+    "COLORCODE": "#f28e2b"
+  },
+  {
+    "PARTYNAME": "Puthiya Needhi Katchi",
+    "ABBREVIATION": "PNK",
+    "PARTY_S_NAME": "pnk",
+    "COLORCODE": "#f28e2b"
+  },
+  {
+    "PARTYNAME": "Puthiya Tamilagam",
+    "ABBREVIATION": "PT",
+    "PARTY_S_NAME": "pt",
+    "COLORCODE": "#f28e2b"
+  },
+  {
+    "PARTYNAME": "Rani Channamma Party",
+    "ABBREVIATION": "RCP",
+    "PARTY_S_NAME": "rcp",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "Rashtravadi Loktantrik Party",
+    "ABBREVIATION": "RLP",
+    "PARTY_S_NAME": "rlp",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "Rashtriya Janata Dal",
+    "ABBREVIATION": "RJD",
+    "PARTY_S_NAME": "rjd",
+    "COLORCODE": "#00BFFF"
+  },
+  {
+    "PARTYNAME": "Rashtriya Lok Dal",
+    "ABBREVIATION": "RLD",
+    "PARTY_S_NAME": "rld",
+    "COLORCODE": "#0000FF"
+  },
+  {
+    "PARTYNAME": "Rashtriya Lok Samta Party",
+    "ABBREVIATION": "RLSP",
+    "PARTY_S_NAME": "rlsp",
+    "COLORCODE": "#00BFFF"
+  },
+  {
+    "PARTYNAME": "Rashtriya Loktantrik Party",
+    "ABBREVIATION": "RLP",
+    "PARTY_S_NAME": "rlp",
+    "COLORCODE": "#f28e2b"
+  },
+  {
+    "PARTYNAME": "Rashtriya Rashtrawadi Party",
+    "ABBREVIATION": "RRP",
+    "PARTY_S_NAME": "rrp",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "Rashtriya Samaj Paksha",
+    "ABBREVIATION": "RSP",
+    "PARTY_S_NAME": "rsp",
+    "COLORCODE": "#f28e2b"
+  },
+  {
+    "PARTYNAME": "Rashtriya Ulama Council",
+    "ABBREVIATION": "RUC",
+    "PARTY_S_NAME": "ruc",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "Rayalaseema Parirakshana Samithi",
+    "ABBREVIATION": "RPS",
+    "PARTY_S_NAME": "rps",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "Republican Party of India (Athawale)",
+    "ABBREVIATION": "RPIA",
+    "PARTY_S_NAME": "rpia",
+    "COLORCODE": "#f28e2b"
+  },
+  {
+    "PARTYNAME": "Revolutionary Communist Party of India",
+    "ABBREVIATION": "RCPI",
+    "PARTY_S_NAME": "rcpi",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "Revolutionary Socialist Party",
+    "ABBREVIATION": "RSP",
+    "PARTY_S_NAME": "rsp",
+    "COLORCODE": "#00BFFF"
+  },
+  {
+    "PARTYNAME": "Samajwadi Party",
+    "ABBREVIATION": "SP",
+    "PARTY_S_NAME": "sp",
+    "COLORCODE": "#0000FF"
+  },
+  {
+    "PARTYNAME": "Shiromani Akali Dal",
+    "ABBREVIATION": "SAD",
+    "PARTY_S_NAME": "sad",
+    "COLORCODE": "#f28e2b"
+  },
+  {
+    "PARTYNAME": "Shiv Sangram",
+    "ABBREVIATION": "SSA",
+    "PARTY_S_NAME": "ssa",
+    "COLORCODE": "#f28e2b"
+  },
+  {
+    "PARTYNAME": "Shivsena",
+    "ABBREVIATION": "SS",
+    "PARTY_S_NAME": "ss",
+    "COLORCODE": "#f28e2b"
+  },
+  {
+    "PARTYNAME": "Sikkim Democratic Front",
+    "ABBREVIATION": "SDF",
+    "PARTY_S_NAME": "sdf",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "Sikkim Krantikari Morcha",
+    "ABBREVIATION": "SKM",
+    "PARTY_S_NAME": "skm",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "Social Democratic Party of India",
+    "ABBREVIATION": "SDPI",
+    "PARTY_S_NAME": "sdpi",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "Suheldev Bhartiya Samaj Party",
+    "ABBREVIATION": "SBSP",
+    "PARTY_S_NAME": "sbsp",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "Swabhimani Paksha",
+    "ABBREVIATION": "SWP",
+    "PARTY_S_NAME": "swp",
+    "COLORCODE": "#00BFFF"
+  },
+  {
+    "PARTYNAME": "Swaraj India",
+    "ABBREVIATION": "SI",
+    "PARTY_S_NAME": "si",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "Tamil Maanila Congress",
+    "ABBREVIATION": "TMC",
+    "PARTY_S_NAME": "tmc",
+    "COLORCODE": "#f28e2b"
+  },
+  {
+    "PARTYNAME": "Tamil Nadu Kongu Ilaingar Peravai",
+    "ABBREVIATION": "KIP",
+    "PARTY_S_NAME": "kip",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "Telangana Rashtra Samithi",
+    "ABBREVIATION": "TRS",
+    "PARTY_S_NAME": "trs",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "Telugu Desam",
+    "ABBREVIATION": "TDP",
+    "PARTY_S_NAME": "tdp",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "United Democratic Party",
+    "ABBREVIATION": "UDP",
+    "PARTY_S_NAME": "udp",
+    "COLORCODE": "#f28e2b"
+  },
+  {
+    "PARTYNAME": "United Progressive Alliance",
+    "ABBREVIATION": "UPA",
+    "PARTY_S_NAME": "upa",
+    "COLORCODE": "#00BFFF"
+  },
+  {
+    "PARTYNAME": "UPA+",
+    "ABBREVIATION": "UPA",
+    "PARTY_S_NAME": "upa",
+    "COLORCODE": "#00BFFF"
+  },
+  {
+    "PARTYNAME": "Uttarakhand Kranti Dal",
+    "ABBREVIATION": "UKD",
+    "PARTY_S_NAME": "ukd",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "Vanchit Bahujan Aghadi",
+    "ABBREVIATION": "VBA",
+    "PARTY_S_NAME": "vba",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "Vikassheel Insaan Party",
+    "ABBREVIATION": "VIP",
+    "PARTY_S_NAME": "vip",
+    "COLORCODE": "#00BFFF"
+  },
+  {
+    "PARTYNAME": "Viduthalai Chiruthaigal Katchi",
+    "ABBREVIATION": "VCK",
+    "PARTY_S_NAME": "vck",
+    "COLORCODE": "#00BFFF"
+  },
+  {
+    "PARTYNAME": "Vishva Shakti Party",
+    "ABBREVIATION": "VSP",
+    "PARTY_S_NAME": "vsp",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "Welfare Party of India",
+    "ABBREVIATION": "WPI",
+    "PARTY_S_NAME": "wpi",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "YUVAJANA SRAMIKA RYTHU CONGRESS PARTY",
+    "ABBREVIATION": "YSRCP",
+    "PARTY_S_NAME": "ysrcp",
+    "COLORCODE": "#9E9E9E"
+  },
+  {
+    "PARTYNAME": "Yuva Swabhiman Party",
+    "ABBREVIATION": "YSP",
+    "PARTY_S_NAME": "ysp",
+    "COLORCODE": "#00BFFF"
+  },
+  {
+    "PARTYNAME": "Zoram Nationalist Party",
+    "ABBREVIATION": "ZNP",
+    "PARTY_S_NAME": "znp",
+    "COLORCODE": "#9E9E9E"
+  }
+]

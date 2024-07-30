@@ -1,0 +1,740 @@
+[
+    {
+        "Date": "29/08/2023",
+        "Duration": "09:51",
+        "Devloper": "Netaji",
+        "Task": "Worked on data fetching issues in episode section of audiopitara CMS."
+    },
+    {
+        "Date": "30/08/2023",
+        "Duration": "09:30",
+        "Devloper": "Netaji",
+        "Task": "Made changes regarding rss field and add podCast section in audiopitara CMS."
+    },
+    {
+        "Date": "31/08/2023",
+        "Duration": "10:51",
+        "Devloper": "Netaji",
+        "Task": "Worked on import podcast section of audiopitara CMS."
+    },
+    {
+        "Date": "01/09/2023",
+        "Duration": "10:21",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara cms, implemented dynamic input fields in import podcast section, added custom validation in respective form inputs."
+    },
+    {
+        "Date": "02/09/2023",
+        "Duration": "04:40",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara cms, implemented dynamic data fetching functionality in import podcast section."
+    },
+    {
+        "Date": "05/09/2023",
+        "Duration": "10:26",
+        "Devloper": "Netaji",
+        "Task": "Worked on copy rss feed section, artist section of audiopitara CMS."
+    },
+    {
+        "Date": "06/09/2023",
+        "Duration": "09:13",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara cms, made changes regarding add episode page, fixed issues in copy rss feed and fixed other structural changes as well."
+    },
+    {
+        "Date": "08/09/2023",
+        "Duration": "09:15",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara cms, made changes in podcast settings, as requested separated epsiode section from add, edit section, made other ui realted changes as well."
+    },
+    {
+        "Date": "11/09/2023",
+        "Duration": "10:57",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara cms made required changes in add podcast section, rss feed section in view podcast section."
+    },
+    {
+        "Date": "12/09/2023",
+        "Duration": "10:24",
+        "Devloper": "Netaji",
+        "Task": "Today I worked on audiopitara cms, added required changes in edit & view podcast section."
+    },
+    {
+        "Date": "13/09/2023",
+        "Duration": "09:19",
+        "Devloper": "Netaji",
+        "Task": "Today I worked on audiopitara cms required points, made changes in all post section and added filter functionality in member section of poetrymasala as well."
+    },
+    {
+        "Date": "14/09/2023",
+        "Duration": "09:27",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara cms, added required changes in category selectors in show section."
+    },
+    {
+        "Date": "15/09/2023",
+        "Duration": "09:07",
+        "Devloper": "Netaji",
+        "Task": "Worked on requested points of audiopitara cms, separated show episode section from add, edit show section, made other dynamic changes in form input fields."
+    },
+    {
+        "Date": "16/09/2023",
+        "Duration": "06:34",
+        "Devloper": "Netaji",
+        "Task": "Today I've worked on audiopitara cms, fixed minor changes in previous requirements"
+    },
+    {
+        "Date": "18/09/2023",
+        "Duration": "09:00",
+        "Devloper": "Netaji",
+        "Task": "Today I've worked on audiopitara cms, fixed issues with requierd points in podcast section."
+    },
+    {
+        "Date": "23/10/2023",
+        "Duration": "09:12",
+        "Devloper": "Netaji",
+        "Task": "Worked on implementation of import podcast show section in audiopitara CMS."
+    },
+    {
+        "Date": "14/11/2023",
+        "Duration": "11:06",
+        "Devloper": "Netaji",
+        "Task": "Made changes in view & add section of email template in audiopitara CMS."
+    },
+    {
+        "Date": "15/11/2023",
+        "Duration": "12:57",
+        "Devloper": "Netaji",
+        "Task": "Made changes in audiopitara backend regarding url scraping for the CMS."
+    },
+    {
+        "Date": "21/11/2023",
+        "Duration": "13:17",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara, made minor changes in web scraper api, implemented dynamic fields for the api on the dashboard."
+    },
+    {
+        "Date": "22/11/2023",
+        "Duration": "09:43",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara, made required changes regarding raised points on CMS"
+    },
+    {
+        "Date": "23/11/2023",
+        "Duration": "12:33",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara cms, made required changes on email template, all users."
+    },
+    {
+        "Date": "24/11/2023",
+        "Duration": "09:40",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara cms issues, made changes in categories, all shows sections."
+    },
+    {
+        "Date": "28/11/2023",
+        "Duration": "11:30",
+        "Devloper": "Netaji",
+        "Task": "Worked in audiopitara cms points, made required changes in the edit episode section, did image changes in all data section."
+    },
+    {
+        "Date": "30/11/2023",
+        "Duration": "09:52",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara points, made changes in login section and fixed other minor issues in respective sections of the CMS."
+    },
+    {
+        "Date": "01/12/2023",
+        "Duration": "09:43",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara cms, made changes regarding audio upload and profile photo upload issue in edit episode section, did required changes in add, edit of show section as well."
+    },
+    {
+        "Date": "02/12/2023",
+        "Duration": "05:10",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara cms, made changes regarding sidebar scrolling issue and fixed other minor changes as well."
+    },
+    {
+        "Date": "04/12/2023",
+        "Duration": "09:43",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara cms, made changes regarding required points in different section, added loader functionality for audio file import made changes in edit episode and show section and fixed other minor issues in the dashboard as well."
+    },
+    {
+        "Date": "05/12/2023",
+        "Duration": "09:38",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara cms, made change in required points, added tooltip in every view table section, handled error in all add & edit sections."
+    },
+    {
+        "Date": "06/12/2023",
+        "Duration": "09:30",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara cms points, made required changes in all shows, genres, categories, artist sections, add & edit of show, episode sections along with that fixed other minor issues as well."
+    },
+    {
+        "Date": "07/12/2023",
+        "Duration": "09:43",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara cms, made changes in edit and add show section added download, implemented specified image ratio functionality added and fixed other minor issues in other section as well"
+    },
+    {
+        "Date": "08/12/2023",
+        "Duration": "09:33",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara cms, made changes in add user section fixed future date issue, did required changes in edit episode section."
+    },
+    {
+        "Date": "11/12/2023",
+        "Duration": "09:36",
+        "Devloper": "Netaji",
+        "Task": "Worked on xml to json conversion regarding upload show in audiopitara cms."
+    },
+    {
+        "Date": "13/12/2023",
+        "Duration": "08:50",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara cms, made changes in import podcast section, did necessary changes in order to get repective key values of rss file."
+    },
+    {
+        "Date": "14/12/2023",
+        "Duration": "09:33",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara cms, made changes regarding megaphone scraping points."
+    },
+    {
+        "Date": "15/12/2023",
+        "Duration": "09:48",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara cms, made changes in shows payload while importing through megaphone, fixed episode updation in the dashboard as well."
+    },
+    {
+        "Date": "16/12/2023",
+        "Duration": "07:33",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara cms, made changes regarding category duplicates in the client side, did required changes in date format while importing shows."
+    },
+    {
+        "Date": "18/12/2023",
+        "Duration": "09:31",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara cms, made changes regarding sub category updates, episode sorting, duration updatation while importing shows, did necessary changes in category section."
+    },
+    {
+        "Date": "19/12/2023",
+        "Duration": "09:35",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara cms, made changes regarding episodes image and duration while uploading the shows, did changes in category edit section"
+    },
+    {
+        "Date": "20/12/2023",
+        "Duration": "09:41",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara cms points, fixed category deletion issue, episode image section issue while importing the episode podcast."
+    },
+    {
+        "Date": "26/12/2023",
+        "Duration": "09:51",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara cms points, made changes in add, edit episode and show section, fixed edit and updated issues added required changes in formfields."
+    },
+    {
+        "Date": "27/12/2023",
+        "Duration": "09:38",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara cms points, made changes in episode list and all shows section, added email functinoality in both section."
+    },
+    {
+        "Date": "28/12/2023",
+        "Duration": "09:44",
+        "Devloper": "Netaji",
+        "Task": "worked on audiopitara cms points, added search filter in email send modal, fixed pagination issue in all notification section, upload image issue in edit episode section."
+    },
+    {
+        "Date": "02/01/2024",
+        "Duration": "09:41",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara cms points, made changes in import episode and shows section, fixed other minor issues in edit episode section."
+    },
+    {
+        "Date": "03/01/2024",
+        "Duration": "09:38",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara CMS, implemented show search api in audiopitara dashboard."
+    },
+    {
+        "Date": "05/01/2024",
+        "Duration": "11:55",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara cms, made changes in edit episode section,all shows, all episode section regarding the notification api."
+    },
+    {
+        "Date": "06/01/2024",
+        "Duration": "10:00",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara cms, looked into audio duration issue while importing shows, did fixes in other section as well & episodes."
+    },
+    {
+        "Date": "08/01/2024",
+        "Duration": "11:04",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara cms points, added add artist api, search artist functionality in the add and edit show section, added all episode artist functionality edit show section, added add new episode feature for new show, looked into duration issue."
+    },
+    {
+        "Date": "09/01/2024",
+        "Duration": "09:34",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitarapitara cms, fixed episode artists updation on edit episode section, made required changes for all episode duration in import show update section."
+    },
+    {
+        "Date": "11/01/2024",
+        "Duration": "10:36",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara cms, implemented show publisher field and made required changes regarding the show audio issue while importing new show and update show episode section."
+    },
+    {
+        "Date": "12/01/2024",
+        "Duration": "09:36",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara cms points, looked into audio importing issue, fixed updation issue of artists in edit episode section."
+    },
+    {
+        "Date": "15/01/2024",
+        "Duration": "10:24",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara cms points, made required changes in backend regarding fetching show details for import, fixed audio duration issue while episode import."
+    },
+    {
+        "Date": "17/01/2024",
+        "Duration": "09:32",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara cms points, looked into episode audio duration seconds mismatch issue, made necessary changes in edit episode section and show edit section and fixed minor issue in other section as well."
+    },
+    {
+        "Date": "18/01/2024",
+        "Duration": "09:30",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara cms, fixed episode duration issue and fetch import issue in import show section in the dashboard."
+    },
+    {
+        "Date": "19/01/2024",
+        "Duration": "09:30",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara cms, looked into large audio file issue while importing, fixed category flickering issue in the show edit section."
+    },
+    {
+        "Date": "20/01/2024",
+        "Duration": "05:30",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara cms, made changes in audio section and fixed minor issues in episode import section as well."
+    },
+    {
+        "Date": "22/01/2024",
+        "Duration": "09:58",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara cms points, fixed show and episode publish time issue while importing and updating the show."
+    },
+    {
+        "Date": "29/01/2024",
+        "Duration": "09:30",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara cms, made changes in import podcast section improved calculation of episode audio duratoin by adding multiple condition according to the xml structure."
+    },
+    {
+        "Date": "31/01/2024",
+        "Duration": "09:33",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara cms, made changes regarding showing the top listening shows in the audiopitara CMS."
+    },
+    {
+        "Date": "01/02/2024",
+        "Duration": "11:51",
+        "Devloper": "Netaji",
+        "Task": "Worked on phase 2 audiopitara points, fixed pagination issue in playlist, made changes in edit episode section."
+    },
+    {
+        "Date": "02/02/2024",
+        "Duration": "10:53",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara cms phase 2 points, removed preview functionality in each section, fixed allocate banner search issue,made required changes in email sending section, added suffix in notification."
+    },
+    {
+        "Date": "03/02/2024",
+        "Duration": "05:40",
+        "Devloper": "Netaji",
+        "Task": "Worked on phase 2 audiopitara points, improved category selection in add & edit podcast settings, made changes in email send section, sorted category in descending order."
+    },
+    {
+        "Date": "06/02/2024",
+        "Duration": "10:25",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara dashboard phase 2 week 2 points, Added edit functionality in header banner allocation section, restriction for category & sub category creation while importing show."
+    },
+    {
+        "Date": "07/02/2024",
+        "Duration": "11:13",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara cms phase 2 points, added delete option for show tags,functionality to show uploaded image location under show add & edit section."
+    },
+    {
+        "Date": "08/02/2024",
+        "Duration": "10:08",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara phase 2 CMS points, did r&d regarding the large audio file uploading issue, added genre list under edit & add show section, minor changes in delete icon under category section."
+    },
+    {
+        "Date": "13/02/2024",
+        "Duration": "09:59",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara cms phase 2 points, added search filter under top listing shows, removed unecessary image path, fixed toggle button under episode list section."
+    },
+    {
+        "Date": "15/02/2024",
+        "Duration": "10:00",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara CMS, added sub category analytics details in audiopitara cms as well."
+    },
+    {
+        "Date": "16/02/2024",
+        "Duration": "10:00",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara CMS phase 2 points, added table view of unique and total listening counts, subcategory counts on dashboard, added drag & drop functionality on header banner section."
+    },
+    {
+        "Date": "17/02/2024",
+        "Duration": "06:01",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara cms phase 2 points, worked on fetching show category details for each category regarding analytics."
+    },
+    {
+        "Date": "19/02/2024",
+        "Duration": "09:58",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara CMS phase 2 points did minor changes in datepicker under add episode section, added category count and pie chart details on landing page of the dashboard."
+    },
+    {
+        "Date": "20/02/2024",
+        "Duration": "09:30",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara CMS phase 2 points, fixed episode duplication creation issue, scheduling issue in episode section."
+    },
+    {
+        "Date": "21/02/2024",
+        "Duration": "09:32",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara CMS phase 2 points, added specific choose time & date functionality under edit episode section, Fixed sorting issue in the specific episode section."
+    },
+    {
+        "Date": "22/02/2024",
+        "Duration": "09:32",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara CMS phase 2 points, made changes regarding large audio file issue while importing, looked for possible ways of directly configuration and implementation of firebase analytics."
+    },
+    {
+        "Date": "23/02/2024",
+        "Duration": "09:32",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara CMS phase 2 points, fixed issue while choosing specific dates under episode section, added functionality to show whether the show artist is same in every ep."
+    },
+    {
+        "Date": "27/02/2024",
+        "Duration": "09:39",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara CMS phase 2 points, added new section under insight section, added respective get, add API for managing the show layout in app did some changes regarding firebase analytics implementation also."
+    },
+    {
+        "Date": "28/02/2024",
+        "Duration": "09:40",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara CMS phase 2 points, made required layout changes in homepage under insight section, added respective multiple filtration method for the new section add did some changes in banner section as well."
+    },
+    {
+        "Date": "29/02/2024",
+        "Duration": "09:40",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara CMS phase 2 points, added app event analytics under dashboard section, did some changes regarding firebase analytics and made required changes in homepage allocation section as well."
+    },
+    {
+        "Date": "01/03/2024",
+        "Duration": "09:34",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara CMS phase 2 points, added add section for app homepage layout management, created required APIs with updated structure for homepage layout and improved layout structure."
+    },
+    {
+        "Date": "02/03/2024",
+        "Duration": "05:06",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara CMS phase 2 points, added home page section order management API, made fixes in add section of the home page layout in the dashboard."
+    },
+    {
+        "Date": "06/03/2024",
+        "Duration": "13:57",
+        "Devloper": "Netaji",
+        "Task": "worked on audiopitara cms phase 2 points fixed image uploading issue in the CMS, episode toggle issue while updating the show through rss feed."
+    },
+    {
+        "Date": "07/03/2024",
+        "Duration": "09:16",
+        "Devloper": "Netaji",
+        "Task": "worked on audiopitara cms phase 2 points added allocated shows in homepage sections, implemented update API for new allocatin show."
+    },
+    {
+        "Date": "11/03/2024",
+        "Duration": "09:34",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara cms phase 2 points, made required changes in home page section, fixed other minor issue in different section and did necessary changes in the respective APIs."
+    },
+    {
+        "Date": "12/03/2024",
+        "Duration": "09:44",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara cms phase 2 points, did changes regarding allocated show order under home page section, fixed issues while uploading images in the dashboard."
+    },
+    {
+        "Date": "13/03/2024",
+        "Duration": "11:15",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara cms phase 2 points, fixed issue in add, edit & delete functionalities of homepage section, made changes regarding dynamic filtreation issue while allocating shows under homepage section."
+    },
+    {
+        "Date": "14/03/2024",
+        "Duration": "09:30",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara cms phase 2 points, fixed state mangement issue for allocated shows under homepage section, added required changes regarding dynamic filtreation in add section of homepage."
+    },
+    {
+        "Date": "15/03/2024",
+        "Duration": "10:00",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara CMS phase 2 points, implemented new API in manage homepage section, fixed issues in import show sectoin, made required changes for table size changer functionality in homepage section."
+    },
+    {
+        "Date": "18/03/2024",
+        "Duration": "09:15",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara CMS points, looked into various workaround for specific xml file while importing large audio files, fixed small functoinality related issue and refactored some of the code in required section as well."
+    },
+    {
+        "Date": "19/03/2024",
+        "Duration": "09:13",
+        "Devloper": "Netaji",
+        "Task": "worked on cms audiopitara phase 2 points, fixed N/A issue in the allocated shows under homepage section, added functionality for episode poster bulk updation and made changes regaridng err appearing while updating the episodes under import section."
+    },
+    {
+        "Date": "20/03/2024",
+        "Duration": "09:11",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara CMS, added size changer functionality under show allocation, refactored code in all artist, language, playlists, all emails, all notifications sections as well."
+    },
+    {
+        "Date": "21/03/2024",
+        "Duration": "09:13",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara cms points, made necessary changes regarding homepage section swapping issue, optimized header banner section and fixed it's order issue."
+    },
+    {
+        "Date": "22/03/2024",
+        "Duration": "09:15",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara cms, made changes in allocated show section of homepage updated delete functionality."
+    },
+    {
+        "Date": "26/03/2024",
+        "Duration": "09:23",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara CMS, modified the main header banner table to sort the banner order, fixed audio update issue while importing the exisiting show."
+    },
+    {
+        "Date": "04/04/2024",
+        "Duration": "09:14",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara CMS, made required changes regarding media gallery in audiopitara dashboard."
+    },
+    {
+        "Date": "05/04/2024",
+        "Duration": "09:15",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara dashboard, added sign up method option under the user list section, looked into media library implementation."
+    },
+    {
+        "Date": "08/04/2024",
+        "Duration": "09:09",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara CMS dashboard,made required changes in user list section, added user playlist details for eachh user, implemented add media gallery function in import, add & edit show section as well."
+    },
+    {
+        "Date": "09/04/2024",
+        "Duration": "09:27",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara cms, made changes in user section, added dynamic and filtered counts of users."
+    },
+    {
+        "Date": "10/04/2024",
+        "Duration": "09:41",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara CMS, implemented required fields in new email add section, optimized dynamic column filters in user section."
+    },
+    {
+        "Date": "11/04/2024",
+        "Duration": "09:32",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara CMS, added mp3 upload feature in media section, implemented mp3 and image filtration option, added user email option with dynamic filtration in add media library section."
+    },
+    {
+        "Date": "15/04/2024",
+        "Duration": "09:49",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara CMS, made changes in user section, implemented CSV export functionality."
+    },
+    {
+        "Date": "16/04/2024",
+        "Duration": "09:27",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara cms points, made optimization in required section, implemented reorder functionality under homepage section, added required APIs in the backend and fixed some of the other code also."
+    },
+    {
+        "Date": "17/04/2024",
+        "Duration": "10:01",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara cms points, added size changer functionality for allocated show order change under manage homepage section, implemented review changes section under add email section also."
+    },
+    {
+        "Date": "18/04/2024",
+        "Duration": "10:42",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara CMS phase 2 points, added new section to view podcasters."
+    },
+    {
+        "Date": "19/04/2024",
+        "Duration": "10:30",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara CMS, fixed sub category update issue in the naoshel dashboard, added s3 upload API for audiopitara and did necessary changes in voter APIs also."
+    },
+    {
+        "Date": "20/04/2024",
+        "Duration": "04:39",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara cms, made required changes in media library section of the dashboard."
+    },
+    {
+        "Date": "22/04/2024",
+        "Duration": "09:07",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara CMS, fixed file upload issue in update import section."
+    },
+    {
+        "Date": "24/04/2024",
+        "Duration": "09:11",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara cms points, added necessary details in the podcaster section, added new add podcaster section in the dashboard."
+    },
+    {
+        "Date": "25/04/2024",
+        "Duration": "09:22",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara points, made required changes in add podcaster section, added more required fields in the section."
+    },
+    {
+        "Date": "29/04/2024",
+        "Duration": "09:10",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara cms points, worked on requested points in podcaster section, added specifc columns, implemented popup for dynamic podcast details."
+    },
+    {
+        "Date": "30/04/2024",
+        "Duration": "09:06",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara CMS points, looked into requested email points, made required changes in add email section, fixed number duplication issue in add podcaster section."
+    },
+    {
+        "Date": "01/05/2024",
+        "Duration": "09:04",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara CMS points, fixed text color not changing issue in the template body, resolved the issue of images appearing in enlarged way."
+    },
+    {
+        "Date": "02/05/2024",
+        "Duration": "09:09",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara cms points, looked into email required changes and updates, made changes in email editor in add email section."
+    },
+    {
+        "Date": "04/05/2024",
+        "Duration": "04:32",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara cms points, made required changes in email section, implemented three sub section."
+    },
+    {
+        "Date": "08/05/2024",
+        "Duration": "09:20",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara cms, fixed meghaphone url update issue under import show section, added required functionality for occasionally image upload issue."
+    },
+    {
+        "Date": "09/05/2024",
+        "Duration": "09:04",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara cms, implemented user specific notification functionality in notification API."
+    },
+    {
+        "Date": "13/05/2024",
+        "Duration": "09:11",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara cms, added dynamic deleted user details under user section."
+    },
+    {
+        "Date": "14/05/2024",
+        "Duration": "09:11",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara cms, made required changes in user section, did filtration changes for deleted users data."
+    },
+    {
+        "Date": "15/05/2024",
+        "Duration": "09:01",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara cms, made required changes to fix update show issue in import section."
+    },
+    {
+        "Date": "20/05/2024",
+        "Duration": "09:03",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara cms, made required changes in homepage management section, added necessary css styles in email add section, fixed sorting issue of homepage allocated shows."
+    },
+    {
+        "Date": "27/05/2024",
+        "Duration": "10:18",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara CMS, made required changes in media section, implemented necessary functionalities for bulk deletion of media."
+    },
+    {
+        "Date": "01/06/2024",
+        "Duration": "05:12",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara CMS, added cover update section in the dashboard and looked into audiopitara image not showing issue as well."
+    },
+    {
+        "Date": "03/06/2024",
+        "Duration": "09:25",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara cms, made required changes in import section, looked into multiple third party platform regarding show data scraping and made required changes in other section to improve end user experience as well."
+    },
+    {
+        "Date": "04/06/2024",
+        "Duration": "09:11",
+        "Devloper": "Netaji",
+        "Task": "Worked audiopitara  CMS, made required changes in add & edit show and import section, fixed image not showing issue after updating specific shows made necessary in the import section as well"
+    },
+    {
+        "Date": "05/06/2024",
+        "Duration": "09:09",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara cms, made required changes in view podcast section, looked into select email functionality issue."
+    },
+    {
+        "Date": "10/06/2024",
+        "Duration": "09:06",
+        "Devloper": "Netaji",
+        "Task": "Worked on audiopitara cms, looked into FCM notification bulk sending issue, pinpoint the cause worked on various test cases."
+    }
+]
